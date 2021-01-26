@@ -1,0 +1,31 @@
+body{
+    background-color: #EFEFEF;
+    margin-top: 0;
+    margin-left: 0;
+    -webkit-user-select:none;
+}
+.bar{
+    width: 500px;
+    height: 26px;
+    background-color: #E3E3E3;
+    -webkit-app-region: drag
+}
+.titleText{
+    position: absolute;
+    left: 10px;
+    top: 5px;
+    -webkit-user-drag: none;
+}
+.close{
+    position: absolute;
+    left: 477px;
+    top: 8px;
+    -webkit-app-region: no-drag;
+    -webkit-user-drag: none;
+}
+.min{
+    margin-left: 445px;
+    margin-top: 5px;
+    -webkit-app-region: no-drag;
+    -webkit-user-drag: none;
+}

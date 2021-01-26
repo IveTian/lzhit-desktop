@@ -1,0 +1,49 @@
+.welcome{
+    position: absolute;
+    top: 93px;
+    left: 136px;
+    -webkit-user-drag: none;
+}
+.MainBtn1{
+    position: absolute;
+    top: 240px;
+    left: 38px;
+    -webkit-user-drag: none;
+}
+.MainBtn2{
+    position: absolute;
+    top: 240px;
+    left: 262px;
+    -webkit-user-drag: none;
+}
+.btn1{
+    position: absolute;
+    top: 426px;
+    left: 38px;
+    -webkit-user-drag: none;
+}
+.btn2{
+    position: absolute;
+    top: 516px;
+    left: 38px;
+    -webkit-user-drag: none;
+}
+.btn3{
+    position: absolute;
+    top: 606px;
+    left: 38px;
+    -webkit-user-drag: none;
+}
+.btn4{
+    position: absolute;
+    top: 698px;
+    left: 38px;
+    -webkit-user-drag: none;
+}
+.privacy{
+    position: absolute;
+    top: 830px;
+    left: 230px;
+    -webkit-user-drag: none;
+}
+
