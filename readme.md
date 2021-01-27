@@ -10,8 +10,9 @@
 This software is suitable for LZHIT. Students can use this software to quickly check grades, select courses, and retrieve books in the collection.
 This application is developed using Electron. The release will cover the three platforms of MacOS, Windows 10 and Linux. 
 
-
-## About open source 
+## How to make this project work
+The steps to make it run are very simple. You only need to make sure that you have an environment running Electron, then ``git clone https://github.com/IveTian/lzhit-desktop.git``, use Terminal to go to this project, and enter ``electron .``
+## About open source
 
 Due to the design of intranet operation and academic account passwords, in order to dispel students' distrust of this software and the author's belief in open source software, it was decided to open source this software.At the same time, you are welcome to contribute to this project to make this project more complete.
 
@@ -23,6 +24,10 @@ The author is a freshman at LZHIT.What is even more incredible is that I am stud
 [Software website](https://duola.city "Software website")
 [LZHIT Homepage](http://lzhit.edu.cn/ "LZHIT Homepage")
 
+------------
+------------
+
+
 # LZHIT Helper (Desktop Edition)
 
 **一个能简化学生操作的校园应用**
@@ -33,6 +38,8 @@ The author is a freshman at LZHIT.What is even more incredible is that I am stud
 此软件适用于柳州工学院。同学们可以通过此软件来快速查看成绩、选课、检索馆藏书籍。
 此应用使用Electron开发。发行版会覆盖MacOS、Windows 10、Linux三平台。
 
+## 如何运行
+使其运行的步骤十分简洁。你只需要确保你拥有运行Electron的环境，然后进行``git clone https://github.com/IveTian/lzhit-desktop.git``，使用Terminal转到此项目，输入``Electron .`` 即可。
 
 ## 关于开源 
 
@@ -41,7 +48,7 @@ The author is a freshman at LZHIT.What is even more incredible is that I am stud
 ## 关于作者
 我是柳州工学院大一学子，专业是环境设计。我一直都需要一个能够集成学校所有线上资源的应用，可惜还没人开发，所以我想着自己开发一个并开源。
 
-## Website
+## 友情链接
 [我的个人网站](https://tzih.top "Author's blog")
 [软件网站](https://duola.city "Software website")
 [柳州工学院](http://lzhit.edu.cn/ "LZHIT Homepage")
