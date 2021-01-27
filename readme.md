@@ -1,0 +1,47 @@
+# LZHIT Helper (Desktop Edition)
+
+**A tool suitable for use on university campuses to simplify student operations. **
+
+![](https://img.shields.io/cran/l/gpk?style=flat-square)
+
+## Introduction
+
+
+This software is suitable for LZHIT. Students can use this software to quickly check grades, select courses, and retrieve books in the collection.
+This application is developed using Electron. The release will cover the three platforms of MacOS, Windows 10 and Linux. 
+
+
+## About open source 
+
+Due to the design of intranet operation and academic account passwords, in order to dispel students' distrust of this software and the author's belief in open source software, it was decided to open source this software.At the same time, you are welcome to contribute to this project to make this project more complete.
+
+## About the author
+The author is a freshman at LZHIT.What is even more incredible is that I am studying design.I have always needed an application that can integrate the resources of the school website, but unfortunately no one developed it. So I wondered whether to develop one myself.
+
+## Website
+[Author's blog](https://tzih.top "Author's blog")
+[Software website](https://duola.city "Software website")
+[LZHIT Homepage](http://lzhit.edu.cn/ "LZHIT Homepage")
+
+# LZHIT Helper (Desktop Edition)
+
+**一个能简化学生操作的校园应用**
+
+![](https://img.shields.io/cran/l/gpk?style=flat-square)
+
+## 介绍
+此软件适用于柳州工学院。同学们可以通过此软件来快速查看成绩、选课、检索馆藏书籍。
+此应用使用Electron开发。发行版会覆盖MacOS、Windows 10、Linux三平台。
+
+
+## 关于开源 
+
+由于设计内网操作及学工账号密码，为打消同学们对于此软件的不信任，以及作者对于开源软件的信念，决定开源此软件。同时，也十分欢迎同学们能够一起贡献此项目，使此项目更加完善。
+
+## 关于作者
+我是柳州工学院大一学子，专业是环境设计。我一直都需要一个能够集成学校所有线上资源的应用，可惜还没人开发，所以我想着自己开发一个并开源。
+
+## Website
+[我的个人网站](https://tzih.top "Author's blog")
+[软件网站](https://duola.city "Software website")
+[柳州工学院](http://lzhit.edu.cn/ "LZHIT Homepage")
