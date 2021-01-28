@@ -19,7 +19,7 @@ Due to the design of intranet operation and academic account passwords, in order
 ## 🤫About the author
 The author is a freshman at LZHIT.What is even more incredible is that I am studying design.I have always needed an application that can integrate the resources of the school website, but unfortunately no one developed it. So I wondered whether to develop one myself.
 
-##🚩Features
+## 🚩Features
 Judge the network environment inside and outside the school through IP to provide corresponding services
 Service embedded
 ...
@@ -53,7 +53,7 @@ Service embedded
 ## 🤫关于作者
 我是柳州工学院大一学子，专业是环境设计。我一直都需要一个能够集成学校所有线上资源的应用，可惜还没人开发，所以我想着自己开发一个并开源。
 
-##🚩待实现功能
+## 🚩待实现功能
 通过IP判断校内外网环境以提供相应服务；
 服务内嵌；
 ...
