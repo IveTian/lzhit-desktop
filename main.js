@@ -24,7 +24,7 @@ app.on('ready',()=>{
     mainWindow.on('closed',()=>{
         mainWindow = null //监听关闭操作，防止内存爆炸
     })
-    mainWindow.webContents.openDevTools({mode:'detach'});
+    //mainWindow.webContents.openDevTools({mode:'detach'}); //默认关闭开发者工具
     
 })
 
