@@ -25,7 +25,7 @@ window.onload=function(){
             resizable: false
         });
         //新建窗口
-        newWin.loadFile('libcheck.html');
+        newWin.loadFile('web/libcheck.html');
         newWin.on('close', () => {
             newWin = null;
         });
@@ -47,7 +47,7 @@ window.onload=function(){
             resizable: false
         });
         //新建窗口
-        newWin.loadFile('jwxt.html');
+        newWin.loadFile('web/jwxt.html');
         newWin.on('close', () => {
             newWin = null;
         });
@@ -69,7 +69,7 @@ window.onload=function(){
             resizable: false
         });
         //新建窗口
-        newWin.loadFile('gspt.html');
+        newWin.loadFile('web/gspt.html');
         newWin.on('close', () => {
             newWin = null;
         });
