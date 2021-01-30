@@ -92,7 +92,7 @@ window.onload=function(){
             resizable: false
         });
         //新建窗口
-        newWin.loadFile('tree.html');
+        newWin.loadFile('web/tree.html');
         newWin.on('close', () => {
             newWin = null;
         });
