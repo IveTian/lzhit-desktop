@@ -4,9 +4,12 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "packager": "electron-packager . LZHIT助手 --all --out ./OutApp --electron-version 11.2.0 --overwrite --icon=logo.ico"}, 
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "IveTian",
+  "license": "ISC",
+  "devDependencies": {
+    "electron-packager": "^15.2.0"
+  }
 }
