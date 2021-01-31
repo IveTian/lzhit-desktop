@@ -6,43 +6,49 @@
 }
 .MainBtn1{
     position: absolute;
-    top: 240px;
+    top: 288px;
     left: 38px;
     -webkit-user-drag: none;
 }
 .MainBtn2{
     position: absolute;
-    top: 240px;
+    top: 288px;
     left: 262px;
+    -webkit-user-drag: none;
+}
+.info{
+    position: absolute;
+    top: 206px;
+    left: 46px;
     -webkit-user-drag: none;
 }
 .btn1{
     position: absolute;
-    top: 426px;
+    top: 468px;
     left: 38px;
     -webkit-user-drag: none;
 }
 .btn2{
     position: absolute;
-    top: 516px;
+    top: 558px;
     left: 38px;
     -webkit-user-drag: none;
 }
 .btn3{
     position: absolute;
-    top: 606px;
+    top: 648px;
     left: 38px;
     -webkit-user-drag: none;
 }
 .btn4{
     position: absolute;
-    top: 698px;
+    top: 740px;
     left: 38px;
     -webkit-user-drag: none;
 }
 .privacy{
     position: absolute;
-    top: 830px;
+    top: 850px;
     left: 230px;
     -webkit-user-drag: none;
 }

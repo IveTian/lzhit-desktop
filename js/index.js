@@ -35,6 +35,12 @@ window.onload=function(){
             newWin = null;
         });
     }
+    //信息更新banner
+    info.onclick=function (e) {
+        e.preventDefault();
+        let href = this.getAttribute('href');
+        shell.openExternal(href)
+    }
     //教务系统
     jwxt.onclick=function (e) {
         e.preventDefault();
