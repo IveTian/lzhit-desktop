@@ -9,12 +9,14 @@
     top: 288px;
     left: 38px;
     -webkit-user-drag: none;
+    cursor: pointer;
 }
 .MainBtn2{
     position: absolute;
     top: 288px;
     left: 262px;
     -webkit-user-drag: none;
+    cursor: pointer;
 }
 .info{
     position: absolute;
@@ -27,24 +29,28 @@
     top: 468px;
     left: 38px;
     -webkit-user-drag: none;
+    cursor: pointer;
 }
 .btn2{
     position: absolute;
     top: 558px;
     left: 38px;
     -webkit-user-drag: none;
+    cursor: pointer;
 }
 .btn3{
     position: absolute;
     top: 648px;
     left: 38px;
     -webkit-user-drag: none;
+    cursor: pointer;
 }
 .btn4{
     position: absolute;
     top: 740px;
     left: 38px;
     -webkit-user-drag: none;
+    cursor: pointer;
 }
 .privacy{
     position: absolute;

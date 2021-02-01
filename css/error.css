@@ -21,10 +21,12 @@
     top: 513px;
     left: 364px;
     -webkit-user-drag: none;
+    cursor: pointer;
 }
 .exit_btn{
     position: absolute;
     top: 503px;
     left: 291px;
     -webkit-user-drag: none;
+    cursor: pointer;
 }
