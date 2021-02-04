@@ -20,13 +20,14 @@ Due to the design of intranet operation and academic account passwords, in order
 The author is a freshman at LZHIT.What is even more incredible is that I am studying design.I have always needed an application that can integrate the resources of the school website, but unfortunately no one developed it. So I wondered whether to develop one myself.
 
 ## 🚩Features
-Judge the network environment inside and outside the school through IP to provide corresponding services
-Service embedded
+Judge the network environment inside and outside the school through IP to provide corresponding services  
+~~Service embedded~~  
+New UI  
 ...
 
 ## 🌏Website
-[Author's blog](https://tzih.top "Author's blog")
-[Software website](https://duola.city "Software website")
+[Author's blog](https://tzih.top "Author's blog")  
+[Software website](https://duola.city "Software website")  
 [LZHIT Homepage](http://lzhit.edu.cn/ "LZHIT Homepage")
 
 ------------
@@ -54,11 +55,12 @@ Service embedded
 我是柳州工学院大一学子，专业是环境设计。我一直都需要一个能够集成学校所有线上资源的应用，可惜还没人开发，所以我想着自己开发一个并开源。
 
 ## 🚩待实现功能
-通过IP判断校内外网环境以提供相应服务；
-服务内嵌；
-...
+通过IP判断校内外网环境以提供相应服务；  
+~~服务内嵌；~~  
+新的界面布局设计  
+...  
 
 ## 🌏友情链接
-[我的个人网站](https://tzih.top "Author's blog")
-[软件网站](https://duola.city "Software website")
+[我的个人网站](https://tzih.top "Author's blog")  
+[软件网站](https://duola.city "Software website")  
 [柳州工学院](http://lzhit.edu.cn/ "LZHIT Homepage")
