@@ -1,0 +1,26 @@
+body{
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    user-select:none;
+    height: 100%;
+}
+.bar{
+    height: 26px;
+    background-color: #E3E3E3;
+    -webkit-app-region: drag
+}
+.titleText{
+    position: relative;
+    top: 5px;
+    left: 10px;
+    -webkit-user-drag: none;
+}
+.close{
+    position: relative;
+    top: 7px;
+    right: 10px;
+    float: right;
+    -webkit-user-drag: none;
+    -webkit-app-region: no-drag;
+}
