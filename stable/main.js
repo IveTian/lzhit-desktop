@@ -32,7 +32,7 @@ app.on('ready',()=>{
         mainWindow = null //监听关闭操作，防止内存爆炸
     })
     //开发者工具
-    //mainWindow.webContents.openDevTools({mode:'detach'}); //默认关闭开发者工具
+    mainWindow.webContents.openDevTools({mode:'detach'}); //默认关闭开发者工具
     
 })
 
