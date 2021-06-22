@@ -25,14 +25,15 @@ app.on('ready',()=>{
         fullscreen:false,
         useContentSize: true,
         frame: false,
-        resizable: false
+        resizable: false,
+        transparent: true,
     })
     mainWindow.loadFile('internet_check.html') //打开入口文件
     mainWindow.on('closed',()=>{
         mainWindow = null //监听关闭操作，防止内存爆炸
     })
     //开发者工具
-    mainWindow.webContents.openDevTools({mode:'detach'}); //默认关闭开发者工具
+    //mainWindow.webContents.openDevTools({mode:'detach'}); //默认关闭开发者工具
     
 })
 

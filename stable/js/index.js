@@ -18,7 +18,7 @@ window.onload=function(){
         //调用 BrowserWindow打开新窗口
         newWin = new BrowserWindow({
             width: 500,
-            height: 860,
+            height: 870,
             webPreferences: {
                 webSecurity: false,
                 nodeIntegration: true,
@@ -29,7 +29,8 @@ window.onload=function(){
             fullscreen:false,
             useContentSize: true,
             frame: false,
-            resizable: false
+            resizable: false,
+            transparent: true,
         });
         //新建窗口
         newWin.loadFile('web/libcheck.html');
@@ -186,7 +187,7 @@ window.onload=function(){
         //调用 BrowserWindow打开新窗口
         newWin = new BrowserWindow({
             width: 500,
-            height: 860,
+            height: 870,
             webPreferences: {
                 webSecurity: false,
                 nodeIntegration: true,
@@ -197,7 +198,8 @@ window.onload=function(){
             fullscreen:false,
             useContentSize: true,
             frame: false,
-            resizable: false
+            resizable: false,
+            transparent: true,
         });
         //新建窗口
         newWin.loadFile('web/privacy.html');
