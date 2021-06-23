@@ -1,61 +1,68 @@
-.welcome{
+.welcome {
     position: absolute;
     top: 93px;
     left: 136px;
     -webkit-user-drag: none;
 }
-.MainBtn1{
+
+.MainBtn1 {
     position: absolute;
     top: 288px;
     left: 38px;
     -webkit-user-drag: none;
     cursor: pointer;
 }
-.MainBtn2{
+
+.MainBtn2 {
     position: absolute;
     top: 288px;
     left: 262px;
     -webkit-user-drag: none;
     cursor: pointer;
 }
-.info{
+
+.info {
     position: absolute;
     top: 206px;
     left: 46px;
     -webkit-user-drag: none;
 }
-.btn1{
+
+.btn1 {
     position: absolute;
     top: 468px;
     left: 38px;
     -webkit-user-drag: none;
     cursor: pointer;
 }
-.btn2{
+
+.btn2 {
     position: absolute;
     top: 558px;
     left: 38px;
     -webkit-user-drag: none;
     cursor: pointer;
 }
-.btn3{
+
+.btn3 {
     position: absolute;
     top: 648px;
     left: 38px;
     -webkit-user-drag: none;
     cursor: pointer;
 }
-.btn4{
+
+.btn4 {
     position: absolute;
     top: 740px;
     left: 38px;
     -webkit-user-drag: none;
     cursor: pointer;
 }
-.privacy{
+
+.privacy {
     position: absolute;
     top: 840px;
     left: 230px;
     -webkit-user-drag: none;
 }
-

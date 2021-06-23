@@ -1,16 +1,18 @@
-.img_internet{
+.img_internet {
     position: absolute;
     top: 163px;
     left: 171px;
     -webkit-user-drag: none;
 }
-.checking{
+
+.checking {
     position: absolute;
     top: 354px;
     left: 180px;
     -webkit-user-drag: none;
 }
-.loading{
+
+.loading {
     position: absolute;
     top: 435px;
     left: 234px;

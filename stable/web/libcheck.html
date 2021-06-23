@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,15 +8,19 @@
     <link rel="stylesheet" href="../css/common.css">
     <script src="../js/common.js"></script>
     <link rel="stylesheet" href="../css/webview.css">
-       
+
 </head>
+
 <body>
     <div class="bgclor">
-    <div class="bar">
-        <img src="../src/title.png"  class="titleText">
-        <img src="../src/close.png"  class="close" onclick="window.close();">
+        <div class="bar">
+            <img src="../src/title.png" class="titleText">
+            <img src="../src/close.png" class="close" onclick="window.close();">
+        </div>
+        <webview class="vertical_wb"
+            src="http://agentdockingopac.featurelib.libsou.com/showhome/search/showSearch?schoolId=8295"
+            style="border-radius: 0px 0px 10px 10px;" />
     </div>
-    <webview class="vertical_wb" src="http://agentdockingopac.featurelib.libsou.com/showhome/search/showSearch?schoolId=8295" style="border-radius: 0px 0px 10px 10px;"/>
-</div>
 </body>
+
 </html>

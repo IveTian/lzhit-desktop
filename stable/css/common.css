@@ -1,10 +1,11 @@
-body{
+body {
     /*background-color: #EFEFEF;*/
     margin-top: 0;
     margin-left: 0;
-    -webkit-user-select:none;
+    -webkit-user-select: none;
 }
-.bgclor{
+
+.bgclor {
     margin-top: 0;
     margin-left: 0;
     width: 500px;
@@ -12,27 +13,31 @@ body{
     background-color: #EFEFEF;
     border-radius: 10px;
 }
-.bar{
+
+.bar {
     width: 500px;
     height: 26px;
     background-color: #E3E3E3;
-    border-radius:10px 10px 0px 0px;
+    border-radius: 10px 10px 0px 0px;
     -webkit-app-region: drag
 }
-.titleText{
+
+.titleText {
     position: absolute;
     left: 10px;
     top: 5px;
     -webkit-user-drag: none;
 }
-.close{
+
+.close {
     position: absolute;
     left: 477px;
     top: 8px;
     -webkit-app-region: no-drag;
     -webkit-user-drag: none;
 }
-.min{
+
+.min {
     margin-left: 445px;
     margin-top: 5px;
     -webkit-app-region: no-drag;

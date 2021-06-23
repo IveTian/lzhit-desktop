@@ -1,10 +1,11 @@
-.transverse_wb{
+.transverse_wb {
     width: 1480px;
     height: 844px;
     position: absolute;
     top: 26px;
 }
-.vertical_wb{
+
+.vertical_wb {
     width: 500px;
     height: 832px;
     position: absolute;

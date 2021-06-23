@@ -1,29 +1,33 @@
-.warning{
+.warning {
     position: absolute;
     top: 137px;
     left: 38px;
     -webkit-user-drag: none;
 }
-.something{
+
+.something {
     position: absolute;
     top: 144px;
     left: 102px;
     -webkit-user-drag: none;
 }
-.err{
+
+.err {
     position: absolute;
     top: 222px;
     left: 38px;
     -webkit-user-drag: none;
 }
-.exit{
+
+.exit {
     position: absolute;
     top: 513px;
     left: 364px;
     -webkit-user-drag: none;
     cursor: pointer;
 }
-.exit_btn{
+
+.exit_btn {
     position: absolute;
     top: 503px;
     left: 291px;

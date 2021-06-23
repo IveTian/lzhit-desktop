@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,24 +10,26 @@
     <script src="js/common.js"></script>
     <script src="renderer.js"></script>
 </head>
+
 <body>
     <script>
-        setTimeout(function(){
+        setTimeout(function () {
             if (navigator.onLine) {
-                    window.location.href="./index.html";
-                } else {
-                    window.location.href="./error.html";
-                }
-        },800)
-        </script>
-        <div class="bgclor">
-    <div class="bar">
-        <img src="src/title.png"  class="titleText">
-        <img src="src/close.png"  class="close" onclick="window.close();">
+                window.location.href = "./index.html";
+            } else {
+                window.location.href = "./error.html";
+            }
+        }, 800)
+    </script>
+    <div class="bgclor">
+        <div class="bar">
+            <img src="src/title.png" class="titleText">
+            <img src="src/close.png" class="close" onclick="window.close();">
+        </div>
+        <img src="src/internt.png" class="img_internet">
+        <img src="src/checking.png" class="checking">
+        <img src="src/loading.gif" class="loading">
     </div>
-    <img src="src/internt.png"  class="img_internet">
-    <img src="src/checking.png"  class="checking">
-    <img src="src/loading.gif"  class="loading">
-</div>
 </body>
+
 </html>
