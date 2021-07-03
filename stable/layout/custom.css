@@ -1,0 +1,17 @@
+/*适配非 Windows 11 系统，通过方法将直角窗体转换为圆角窗体*/
+.bgclor {
+    margin-top: 0;
+    margin-left: 0;
+    width: 500px;
+    height: 860px;
+    background-color: #EFEFEF;
+    border-radius: 10px;
+}
+
+.bar {
+    width: 500px;
+    height: 26px;
+    background-color: #E3E3E3;
+    border-radius: 10px 10px 0px 0px;
+    -webkit-app-region: drag
+}
